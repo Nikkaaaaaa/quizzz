@@ -1,0 +1,126 @@
+body{
+    position: fixed;
+    margin: 0px;
+    background-image: url(uno.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+#haha{
+    font-family: cinzel;
+    color: white;
+    margin: 0px;
+    font-size: 50px;
+    text-shadow: 5px 5px 20px #8f188f;
+    position: relative;
+    top: 25px;
+    left: 800px;
+}
+#question{
+    width: 100%;
+    height: 40px;
+    border: 7px solid rgb(118, 33, 151);
+    padding: 50px 400px;
+    margin: 40px;
+    position: relative;
+    left: 70px;
+    top: -75px;
+    background-color: #cfb6cf;
+    border-radius: 40px;
+    box-shadow: 3px 3px 20px 2px  #be7fbe ;
+}
+#wan{
+    color: white;
+    position: relative;
+    left: -345px;
+    top: -17px;
+}
+#one{
+    width: 100%;
+    height: 20px;
+    border: 7px solid rgb(118, 33, 151);
+    padding: 50px 250px;
+    margin: 10px;
+    position: relative;
+    left: 210px;
+    top: -80px;
+    background-color: #cfb6cf;
+    border-radius: 35px;
+    box-shadow: 3px 3px 20px 2px  #cfb6cf ;
+}
+#onee{
+    color: white;
+    position: relative;
+    top: -20px;
+    left: -200px;
+}
+#two{
+    width: 100%;
+    height: 20px;
+    border: 7px solid rgb(118, 33, 151);
+    padding: 50px 250px;
+    margin: 10px;
+    position: relative;
+    left: 210px;
+    top: -75px;
+    background-color:  #cfb6cf;
+    border-radius: 35px;
+    box-shadow: 3px 3px 20px 2px  #cfb6cf8f ;
+}
+#twoo{
+    color: white;
+    position: relative;
+    top: -20px;
+    left: -200px;
+}
+#three{
+    width: 100%;
+    height: 20px;
+    border: 7px solid rgb(118, 33, 151);
+    padding: 50px 250px;
+    margin: 10px;
+    position: relative;
+    left: 210px;
+    top: -70px;
+    background-color: #cfb6cf;
+    border-radius: 35px;
+    box-shadow: 3px 3px 20px 2px  #cfb6cf ;
+}
+#threee{
+    color: white;
+    position: relative;
+    top: -20px;
+    left: -200px;
+
+}
+#four{
+    width: 100%;
+    height: 20px;
+    border: 7px solid rgb(118, 33, 151);
+    padding: 50px 250px;
+    margin: 10px;
+    position: relative;
+    left: 210px;
+    top: -70px;
+    background-color: #ddc3dd;
+    border-radius: 35px;
+    box-shadow: 3px 3px 20px 2px  #cfb6cf ;
+}
+#fourr{
+    color: white;
+    position: relative;
+    top: -20px;
+    left: -200px;
+}
+#logoo{
+position: relative;
+right: -700px;
+display: flex;
+top: -55px;
+}
+hr{
+    width: 70%;
+    position: relative;
+    left: 450px;
+    top: -60px;
+}

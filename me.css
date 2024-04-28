@@ -1,0 +1,115 @@
+body{
+    margin: 0px;
+    background-image: url(uno.jpg) ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.uno{
+margin-top: 30px;
+margin-left: 95px;
+height: 130px;
+width: 90%;
+background-color: #8f188f;
+box-shadow: 7px 7px 20px 2px #4e0e4e; 
+border-radius: 50px;
+display: flex;
+}
+#unoimage{
+    height: 110px;
+    margin: 10px 25px;
+    position: relative;
+    top: -3px;
+}
+#ha{
+    color: white;
+    position:relative ;
+    top: 12px;
+    font-family: cinzel;
+    text-shadow: 3px 3px 15px rgb(0, 0, 0); 
+    font-size: 40px;
+}
+.dos{
+    height: 500px;
+    width: 25%;
+    margin: 80px 745px;
+    background-color: #8f188f;
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px 2px #811a81, -2px -2px 10px 2px #811a81 ;
+    
+}
+#sign{
+
+    color: white;
+    font-family: cinzel;
+    position: relative;
+    right: -210px;
+    top: 20px;
+    font-size: 25px;
+
+}
+#email{
+    background-color: #eba2eb;
+    display: block;
+    width: 80%;
+    margin:0px 20px ;
+    position: relative;
+    top: 40px;
+    padding: 20px 20px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+}
+#pass{
+    background-color: #eba2eb;
+    display: block;
+    width: 80%;
+    margin:70px 20px ;
+    padding: 20px 20px;
+    border-radius: 20px;
+    border:none;
+    outline: none;
+}
+#email:focus{
+    border: 6px solid rgb(194, 59, 199);
+    padding: 16px;
+}
+#pass:focus{
+    border: 6px solid rgb(194, 59, 199);
+    padding: 16px;
+}
+#log{
+    width: 25%;
+    margin: 10px 50px;
+    padding: 10px 20px;
+    background-color: #eba2eb;
+    border: none;
+    position: relative;
+    top: -40px;
+    right: -130px;
+    border-radius: 15px;
+    font-size: 15px;
+    font-family: verdana;
+}
+#log:active{
+    color: green;
+    border: 5px solid rgb(194, 59, 199);
+    padding: 6px;
+
+}
+.text{
+    font-family: verdana;
+    font-size: 15px;
+    color: white;
+    position: relative;
+    right: -110px;
+    top: -40px;
+}
+#gmail{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+#gmail:hover{
+    text-decoration: underline;
+}
